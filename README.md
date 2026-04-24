@@ -1,4 +1,4 @@
-AfriTel Ghana – Customer Churn Analytics
+# **AfriTel Ghana – Customer Churn Analytics**
 
 Tools: Python • SQL • Power BI • Telecom Analytics
 
