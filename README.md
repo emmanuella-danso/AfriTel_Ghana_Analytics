@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1AXDZK-UcVGlNcmeklpRkbfr1waV6l0_b/view?usp=shari
 
 The full consulting-grade report is available in:
 
-📁 /Reports/AfriTel_Ghana_Churn_Analytics_Report.pdf
+📁 https://github.com/emmanuella-danso/AfriTel_Ghana_Analytics/blob/main/AfriTel_Ghana_Churn_Analytics_Report.pdf%20FINAL%202.pdf
 
 🧠 Key Insights
 1. Service Calls Are the #1 Churn Trigger
